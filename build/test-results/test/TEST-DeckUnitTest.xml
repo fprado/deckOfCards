@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DeckUnitTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-02-03T00:57:46" hostname="NB200818FPR" time="0.028">
+  <properties/>
+  <testcase name="deck is empty after getting all cards" classname="DeckUnitTest" time="0.001"/>
+  <testcase name="shuffle is working" classname="DeckUnitTest" time="0.027"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
